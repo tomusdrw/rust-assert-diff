@@ -82,7 +82,7 @@ class App extends Component {
     })
 
     return (
-      <div style={{width:'100vw',overflow:'auto'}}>
+      <div style={{width:'100%',overflow:'auto'}}>
         <pre>{ leftVis }</pre>
         <pre>{ rightVis }</pre>
       </div>
