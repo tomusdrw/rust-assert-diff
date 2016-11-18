@@ -1,0 +1,42 @@
+.App {
+  text-align: center;
+}
+
+.App-header {
+  background-color: #222;
+  height: 60px;
+  padding: 20px;
+  color: white;
+}
+
+.App-intro {
+  font-size: large;
+}
+
+.App-input {
+  display: block;
+  font-size: 1.2rem;
+  padding: 7px;
+  border-radius: 2px;
+  border: 1px solid #aaa;
+  background: #fafafa;
+  width: 100%;
+}
+.App-container {
+  width: 90vw;
+  margin: auto;
+}
+
+pre {
+  padding: 5x;
+  background: #eee;
+  font-size: 1.5rem;
+}
+
+.diff-ok {
+  color: #4CAF50;
+}
+.diff-bad, .error {
+  font-weight: bold;
+  color: #F44336;
+}
