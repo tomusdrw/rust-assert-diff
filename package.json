@@ -2,6 +2,7 @@
   "name": "testvis",
   "version": "0.1.0",
   "private": true,
+  "homepage": "http://tomusdrw.github.io/rust-assert-diff",
   "devDependencies": {
     "react-scripts": "0.7.0"
   },
